@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "name": "Thỏ bảy màu",
+        "image": "https://salt.tikicdn.com/cache/400x400/ts/product/b7/b1/16/751f78016eb5eea6547d9feca071fdb5.jpg",
+        "price": 40000,
+        "description": "Tuyển chọn từ 100% lá trà non, trải qua quy trình Hấp kết hợp Sấy để bảo toàn hương vị tự nhiên. Là giải pháp thanh sạch cơ thể tiện lợi cho người trẻ hiện đại",
+        "content": "Trà Lipton"
+    },
+    {
+        "id": 1,
+        "name": "Tư duy nhanh và chậm",
+        "image": "https://salabookz.com/wp-content/uploads/2021/06/tu%CC%9B-duy-nhanh-va%CC%80-cha%CC%A3%CC%82m--510x510.jpg",
+        "price": 30000,
+        "description": "Matcha là bột được nghiền từ búp non của cây trà xanh Tencha  giống trà đặc trưng của Nhật Bản.",
+        "content": "Trà Lipton"
+    }
+]
